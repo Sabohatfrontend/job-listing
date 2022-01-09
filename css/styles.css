@@ -111,6 +111,10 @@ img{
   flex-wrap: wrap;
 }
 
+.job-wrapper-border{
+  border-left: 5px solid var(--brand-color);
+}
+
 .jobs-img {
   width: 88px;
   height: 88px;
